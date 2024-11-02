@@ -17,13 +17,6 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 - ![Python](https://img.shields.io/badge/-AWS-3776AB?style=for-the-badge-square&logo=AWS&logoColor=white)
 
-
-## Projects
-
-- [Business Insights 360](https://www.linkedin.com/posts/pradeep-m-analyst_businessinsights360-powerbiproject-codebasics-activity-7150327829006577664-KrRI?utm_source=share&utm_medium=member_desktop): An analysis project providing comprehensive insights into business operations.
-- [Hospitality Analysis](https://www.linkedin.com/posts/pradeep-m-analyst_datamagic-reviveinsights-codebasics-activity-7155899561398427648-r_JB?utm_source=share&utm_medium=member_desktop): Analyzed data to optimize operations and improve guest experience in the hospitality sector.
-- [Festive Campaign Analysis](https://www.linkedin.com/posts/pradeep-m-analyst_dataanalytics-sqlproject-powerbi-activity-7164120449143046144-4fAw?utm_source=share&utm_medium=member_desktop): Analyzed marketing campaign effectiveness during festive seasons.
-
 ## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-prathap-v-4969a01a2/)
